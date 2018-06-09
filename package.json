@@ -1,0 +1,19 @@
+{
+  "name": "graphql-in-motion_express-graphql",
+  "version": "1.0.0",
+  "description": "This serves as a modified version of the `express-graphql` package that has native support for subscriptions. Unfortunately, the [express-graphql](https://github.com/graphql/express-graphql), package does not have support for subscriptions. Support was introduced in [express-graphql/#436](https://github.com/graphql/express-graphql/pull/436), however movement on the PR has been all but quick.  This package implements that support for use in the GraphQL in motion course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graphql-in-motion/express-graphql.git"
+  },
+  "author": "Tyler Reckart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graphql-in-motion/express-graphql/issues"
+  },
+  "homepage": "https://github.com/graphql-in-motion/express-graphql#readme"
+}
